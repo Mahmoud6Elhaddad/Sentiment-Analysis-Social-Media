@@ -32,7 +32,6 @@ The model is deployed as an interactive web application with **Streamlit**, wher
 ├── DataSets
 
     ├── Reddit_Data.csv # Reddit dataset (preprocessed)
-    
     ├── Twitter_Data.csv # Twitter dataset (preprocessed)
     
 ├── README.md # Project documentation
@@ -40,7 +39,8 @@ The model is deployed as an interactive web application with **Streamlit**, wher
 ---
 
 ## 📊 Model Performance
-**Accuracy:** 85.2% 
+**Accuracy:** 85.2%
+
 **Classification Report:**
                precision    recall  f1-score   support
 
@@ -49,6 +49,6 @@ The model is deployed as an interactive web application with **Streamlit**, wher
            1       0.90      0.84      0.87     17644
 
     accuracy                           0.85     39954
-   macro avg       0.84      0.84      0.84     39954
-weighted avg       0.85      0.85      0.85     39954
+    macro avg       0.84      0.84      0.84     39954
+    weighted avg       0.85      0.85      0.85     39954
 
