@@ -23,6 +23,7 @@ The model is deployed as an interactive web application with **Streamlit**, wher
 ---
 
 ## 📂 Project Structure
+
 ├── app.py # Streamlit app
 ├── LogReg_Sentiment_Model.pkl # Saved logistic regression model
 ├── Tfidf_Vectorizer.pkl # Saved TF-IDF vectorizer
