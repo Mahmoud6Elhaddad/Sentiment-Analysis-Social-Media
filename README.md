@@ -24,16 +24,11 @@ The model is deployed as an interactive web application with **Streamlit**, wher
 
 ## 📂 Project Structure
 ├── app.py # Streamlit app
-
 ├── LogReg_Sentiment_Model.pkl # Saved logistic regression model
-
 ├── Tfidf_Vectorizer.pkl # Saved TF-IDF vectorizer
-
 ├── DataSets
-
     ├── Reddit_Data.csv # Reddit dataset (preprocessed)
     ├── Twitter_Data.csv # Twitter dataset (preprocessed)
-    
 ├── README.md # Project documentation
 
 ---
@@ -50,5 +45,5 @@ The model is deployed as an interactive web application with **Streamlit**, wher
 
     accuracy                           0.85     39954
     macro avg       0.84      0.84      0.84     39954
-    weighted avg       0.85      0.85      0.85     39954
+    weighted avg    0.85      0.85      0.85     39954
 
